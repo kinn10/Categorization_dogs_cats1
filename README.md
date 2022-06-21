@@ -20,7 +20,7 @@ Use the command prompt run:
 ```
 python TrainingModel.py
 ```
-We take the data in [train folder](https://github.com/kinn10/Categorization_dogs_cats1/tree/main/Phanloaichomeo/dogs-vs-cats/dtrain) to train the model.
+We take the data in [train folder](https://drive.google.com/drive/folders/1W8jIuoUJHTzccDXmxXTIbWApG5rq9w1m?usp=sharing) to train the model.File data need download the file and change the .ra to .zip and then extract it.
 Training model process will take a lot of time. So that we already trained the model and saved it to **Model1.h5** and compress in **Model1.zip** You can pass the training step and start to predict
 
 
